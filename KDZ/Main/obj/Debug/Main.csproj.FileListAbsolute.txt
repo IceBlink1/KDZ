@@ -1,0 +1,45 @@
+c:\users\iceiceblink\documents\visual studio 2015\Projects\KDZ\Main\bin\Debug\Main.exe.config
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\bin\Debug\Main.exe
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\bin\Debug\Main.pdb
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.exe
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.pdb
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\obj\Debug\Main.applicationForm.resources
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Main\bin\Debug\Fractals.pdb
+C:\Users\User\Desktop\KDZ\Main\bin\Debug\Main.exe.config
+C:\Users\User\Desktop\KDZ\Main\bin\Debug\Main.exe
+C:\Users\User\Desktop\KDZ\Main\bin\Debug\Main.pdb
+C:\Users\User\Desktop\KDZ\Main\bin\Debug\Fractals.dll
+C:\Users\User\Desktop\KDZ\Main\bin\Debug\Fractals.pdb
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.applicationForm.resources
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.exe
+C:\Users\User\Desktop\KDZ\Main\obj\Debug\Main.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\Main.exe.config
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.exe
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\Main.exe
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\Main.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.applicationForm.resources
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\IceIceBlink\Desktop\KDZ\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\bin\Debug\Main.exe.config
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.exe
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\bin\Debug\Main.exe
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\bin\Debug\Main.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\bin\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.applicationForm.resources
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Main\obj\Debug\Main.csproj.GenerateResource.Cache

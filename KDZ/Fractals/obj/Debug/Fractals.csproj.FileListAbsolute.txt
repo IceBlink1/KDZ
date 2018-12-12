@@ -1,0 +1,21 @@
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Fractals\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Fractals\bin\Debug\Fractals.pdb
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Fractals\obj\Debug\Fractals.dll
+C:\Users\IceIceBlink\documents\visual studio 2015\Projects\KDZ\Fractals\obj\Debug\Fractals.pdb
+C:\Users\User\Desktop\KDZ\Fractals\bin\Debug\Fractals.dll
+C:\Users\User\Desktop\KDZ\Fractals\bin\Debug\Fractals.pdb
+C:\Users\User\Desktop\KDZ\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\KDZ\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KDZ\Fractals\obj\Debug\Fractals.dll
+C:\Users\User\Desktop\KDZ\Fractals\obj\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Fractals\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Fractals\bin\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\Desktop\KDZ\Fractals\obj\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Fractals\obj\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Fractals\bin\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Fractals\bin\Debug\Fractals.pdb
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Fractals\obj\Debug\Fractals.dll
+C:\Users\IceIceBlink\Desktop\KDZ\Main\bin\Debug\KDZ\Fractals\obj\Debug\Fractals.pdb
