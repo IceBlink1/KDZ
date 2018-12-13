@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing.Imaging;
 using Fractals;
 
 namespace Main
@@ -318,6 +319,36 @@ namespace Main
             }
         }
 
-        
+        private void savePictureButton_Click(object sender, EventArgs e)
+        {
+            saveFileDialog.InitialDirectory = @"C:\";  
+            saveFileDialog.Title = "Save picture";
+            saveFileDialog.CheckFileExists = false;
+            saveFileDialog.CheckPathExists = true;
+            saveFileDialog.DefaultExt = "png";
+            saveFileDialog.Filter = "Pictures (*.png)|*.png | Pictures( *.jpeg) | *.jpeg |All files (*.*)|*.*";
+            saveFileDialog.FilterIndex = 3;
+            saveFileDialog.RestoreDirectory = true;
+            
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                canvas.Save(saveFileDialog.FileName, ImageFormat.Png);
+            }
+        }
+
+        private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void lengthTextBox_TextChanged(object sender, EventArgs e)
+        {
+            int k;
+            if (!int.TryParse(lengthTextBox.Text, out k) || k < 0 || k > 1000)
+            {
+                MessageBox.Show("Неверно введена длина ребра или радиус.", "Ошибка-рыбка", MessageBoxButtons.OK);
+                lengthTextBox.Text = "200";
+            }
+        }
     }
 }

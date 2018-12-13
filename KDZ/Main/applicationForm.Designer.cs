@@ -51,6 +51,7 @@
             this.AngleRightLabel = new System.Windows.Forms.Label();
             this.AngleRightTextBox = new System.Windows.Forms.TextBox();
             this.drawBoxFlowLayoutPanel = new System.Windows.Forms.FlowLayoutPanel();
+            this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.drawBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.multyplyingCoefficient)).BeginInit();
             this.drawBoxFlowLayoutPanel.SuspendLayout();
@@ -136,6 +137,7 @@
             this.lengthTextBox.TabIndex = 9;
             this.lengthTextBox.Text = "1";
             this.lengthTextBox.Visible = false;
+            this.lengthTextBox.TextChanged += new System.EventHandler(this.lengthTextBox_TextChanged);
             // 
             // diminishingCoefficientLabel
             // 
@@ -211,6 +213,7 @@
             this.savePictureButton.Text = "Сохранить картинку";
             this.savePictureButton.UseVisualStyleBackColor = true;
             this.savePictureButton.Visible = false;
+            this.savePictureButton.Click += new System.EventHandler(this.savePictureButton_Click);
             // 
             // startColorChoiceButton
             // 
@@ -290,6 +293,10 @@
             this.drawBoxFlowLayoutPanel.Size = new System.Drawing.Size(773, 660);
             this.drawBoxFlowLayoutPanel.TabIndex = 32;
             // 
+            // saveFileDialog
+            // 
+            this.saveFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog1_FileOk);
+            // 
             // applicationForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -359,6 +366,7 @@
         private System.Windows.Forms.Label AngleRightLabel;
         private System.Windows.Forms.TextBox AngleRightTextBox;
         private System.Windows.Forms.FlowLayoutPanel drawBoxFlowLayoutPanel;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog;
     }
 }
 
